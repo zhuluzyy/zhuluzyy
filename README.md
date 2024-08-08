@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhuluzyy
+- 👋 Hi, I’m @zhuluzyy (逐鹿中原原)
 - 👀 I’m interested in redstone and minecraft datapack
 - 🌱 I’m currently learning c++,markdown,minecraftcommand
 - 💞️ I’m looking to collaborate on none
